@@ -1,9 +1,9 @@
 # Node JS Ecommerce App 
 <h3> loading.......! <h3/> 
   <hr>
-<h6>
+<h4>
   Technology stack:
-</h6>
+</h4>
 <li>
   <br>
   <td>Node JS</td>
