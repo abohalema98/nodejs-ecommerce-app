@@ -5,6 +5,7 @@
   Technology stack:
 </h6>
 <li>
+  <br>
   <td>Node JS</td>
   <br>
   <td>Express</td>
